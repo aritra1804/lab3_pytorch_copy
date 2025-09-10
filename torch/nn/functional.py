@@ -46,7 +46,12 @@ conv1d(input, weight, bias=None, stride=1, padding=0, dilation=1, groups=1) -> T
 Applies a 1D convolution over an input signal composed of several input
 planes.
 
-Note: This is a main branch modification for merge conflict demonstration.
+Note: This function has been modified in both main and feature branches
+for merge conflict demonstration purposes. The final version combines
+both modifications to show successful conflict resolution.
+
+Additional note: This demonstrates the complete merge conflict workflow
+including conflict resolution and commit amendment.
 
 {tf32_note}
 
